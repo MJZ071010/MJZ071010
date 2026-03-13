@@ -33,3 +33,6 @@
 - Data Analysis
 - Pandas
 - Data Visualization
+## 🐍 Contribution Snake
+
+![snake gif](https://github.com/MJZ071010/MJZ071010/blob/output/github-contribution-grid-snake.svg)
